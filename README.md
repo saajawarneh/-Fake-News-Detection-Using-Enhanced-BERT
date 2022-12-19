@@ -7,4 +7,4 @@ The full paper is available through the following link: IEEE Transactions on Com
 The dataset which used in this study is downloaded from Kaggle website (www.kaggle.com/datasets/kruzes1/fakenews1). Several processing steps are applied on the data before feeding them to the model. To get the full details of this process, please refer to the paper.
 # Methodology
 The following figure shows an overview of the methodology that is applied in this work. To get the full details about the methodology, please refer to the paper.
-https://user-images.githubusercontent.com/120778517/208239032-91c06d41-c854-4806-9573-eb10ec308849.png
+
