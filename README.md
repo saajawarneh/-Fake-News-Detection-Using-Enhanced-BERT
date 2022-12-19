@@ -2,9 +2,9 @@
 
 # Availablity of this publication
 
-The full paper is available through the following links
+The full paper is available through the following link:
 
-1- IEEE Transactions on Computational Social Systems:https://ieeexplore.ieee.org/abstract/document/9965362
+IEEE Transactions on Computational Social Systems:https://ieeexplore.ieee.org/abstract/document/9965362
 
 # Overview
 
