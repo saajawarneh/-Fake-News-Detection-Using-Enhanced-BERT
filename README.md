@@ -7,4 +7,5 @@ The full paper is available through the following link: IEEE Transactions on Com
 The dataset which used in this study is downloaded from Kaggle website (www.kaggle.com/datasets/kruzes1/fakenews1). Several processing steps are applied on the data before feeding them to the model. To get the full details of this process, please refer to the paper.
 # Methodology
 The following figure shows an overview of the methodology that is applied in this work. To get the full details about the methodology, please refer to the paper.
-
+# Cite this as
+@article{aljawarneh2022fake, title={Fake News Detection Using Enhanced BERT}, author={Aljawarneh, Shadi A and Swedat, Safa Ahmad}, journal={IEEE Transactions on Computational Social Systems}, year={2022}, publisher={IEEE} }
